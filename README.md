@@ -8,9 +8,11 @@ This boilerplate demonstrates a turborepo setup combining Next.js with Electron,
 
 # To get started, install all dependencies and start the development server:
 
-```bash
-npm install
-npm run dev
+```sh
+  npm install
+  npm run dev
+  ```
+
 
 ## Project Structure
 
