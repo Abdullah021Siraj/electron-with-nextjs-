@@ -6,6 +6,12 @@ This boilerplate demonstrates a turborepo setup combining Next.js with Electron,
 
 ![nextjsimage](https://raw.githubusercontent.com/spa5k/nextjs_approuter_electron/main/public/app.png)
 
+# To get started, install all dependencies and start the development server:
+
+```bash
+npm install
+npm run dev
+
 ## Project Structure
 
 1. **Next.js App** - `next.config.mjs`
